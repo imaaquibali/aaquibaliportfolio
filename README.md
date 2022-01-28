@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/84700316/151623782-06ab782a-2d83-4cd3-b760-98b3e8b031e7.png)
 
-## Thsi projet was deployed in [versel app](https://vercel.com/).
+## This projet was deployed in [versel app](https://vercel.com/).
 
 ## 👨‍💻 Demo
 checkout the Website: [aaquibaliportfolio](https://aaquibaliportfolio.vercel.app/).
