@@ -18,8 +18,8 @@ export default class Sidebar extends Component {
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
                   {/* <li><a href="#" data-nav-section="projects">Projects</a></li> */}
-                  {/* <li><a href="#" data-nav-section="blog">Blog</a></li> */}
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
+                  <li><a href="#" data-nav-section="blog">Blog</a></li>
                 </ul>
               </div>
             </nav>
@@ -27,7 +27,7 @@ export default class Sidebar extends Component {
               <ul class="row-icon">
                 {/* <li class="f"><a href="https://www.facebook.com/ghulam.yazdani20" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li> */}
                 <li class="f"><a href="https://twitter.com/dev_aaquib" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li class="f"><a href="https://www.instagram.com/aaquib.dev/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li class="f"><a href="https://www.instagram.com/ur.aaquib_/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
                 <li class="f"><a href="https://www.linkedin.com/in/aaquib-ali-39494b210/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li class="f"><a href="https://github.com/devaaquib" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 <li class="f"><a href="https://aaquibdev.medium.com/" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>

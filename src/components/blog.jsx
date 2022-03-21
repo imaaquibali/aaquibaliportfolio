@@ -15,7 +15,7 @@ export default class Blog extends Component {
 				<div className="row">
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<a href="https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small></small> | <small>  </small> | <small> <i className="icon-bubble3" /> </small></span>
 							<h3><a href="blog.html">9 Visual Studio Code Extensions That Make Programming Easier</a></h3>
@@ -26,7 +26,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<a href="https://enlear.academy/top-5-programming-languages-to-learn-in-2022-27f5d21ca6bc" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small> </small> | <small>  </small> | <small> <i className="icon-bubble3" /> </small></span>
 							<h3><a href="blog.html">Top 5 Programming languages to learn in 2022</a></h3>
@@ -36,7 +36,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<a href="https://enlear.academy/all-about-full-stack-development-the-complete-guide-3eab236046d9" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small></small> | <small>  </small> | <small> <i className="icon-bubble3" /> </small></span>
 							<h3><a href="blog.html">All about Full Stack Development- The complete guide</a></h3>
@@ -47,7 +47,7 @@ export default class Blog extends Component {
 				</div>
 				<div className="row">
 					<div className="col-md-12 animate-box">
-					<p><a href="https://medium.com/@aaquibdev" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+					<p><a href="https://medium.com/@aaquibdev" className="btn btn-primary btn-lg btn-load-more">Read more </a></p>
 					</div>
 				</div>
 			</div>
