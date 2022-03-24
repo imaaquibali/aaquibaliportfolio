@@ -1,4 +1,4 @@
-![Image](https://user-images.githubusercontent.com/84700316/151796513-30c199ed-b534-4ac2-bc9f-8f7054186d6f.png)
+![Image](https://user-images.githubusercontent.com/84700316/159866013-e80e1d35-31e5-419c-b50f-0c10a8538689.png)
 
 
 ## This project was deployed in [versel app](https://vercel.com/).
