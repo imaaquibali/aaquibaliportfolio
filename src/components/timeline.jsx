@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Undergraduation at SPPU<span>2020-2023</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in BVOC(Bachlour in Vocational Course). </p>
+                        <p>I am pursuing my under-graduation studies with major in BVOC(Software Development). </p>
                       </div>
                     </div>
                   </article>
